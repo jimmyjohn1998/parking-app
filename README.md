@@ -1,1 +1,2 @@
 # parking-app
+Searching and finding a parking space in a busy environment is always considered as a long waiting and stressful process. The important purpose of this project is to develop an easy and effective way for park and pre-book vehicles in a secure environment with the help of a web plus android application. Parking owners can also register and customize their parking area and slots with the help of the same android application.
