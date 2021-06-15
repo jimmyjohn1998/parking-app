@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    tools:context="com.tf_staff.parkemlandscape.app_user.NavigationEntities.AppUserWalletActivity">
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:weightSum="7"
+        android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/name_on_card_editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text=""
+            android:hint="NAME ON CARD"
+            android:background="@drawable/roundtext"
+            android:gravity="center"/>
+
+        <EditText
+            android:layout_marginTop="5dp"
+            android:id="@+id/card_number_editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="number"
+            android:hint="CARD NUMBER"
+            android:background="@drawable/roundtext"
+            android:gravity="center"/>
+        <EditText
+            android:layout_marginTop="5dp"
+            android:id="@+id/cvvNumberEdittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="number"
+            android:hint="CVV NUMBER"
+            android:background="@drawable/roundtext"
+            android:gravity="center"/>
+
+        <EditText
+            android:layout_marginTop="5dp"
+            android:id="@+id/recharge_amount_number_editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="RECHARGE AMOUNT"
+            android:background="@drawable/roundtext"
+            android:inputType="number" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textSize="20dp"
+                android:text="Expiry: "/>
+            <Spinner
+                android:id="@+id/mothSpinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <Spinner
+                android:id="@+id/yearSpinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/submitRechargeButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundbutton"
+            android:text="SUBMIT"
+            android:textColor="#616161"
+            android:textSize="20dp"
+            android:layout_gravity="center"
+            android:gravity="center"/>
+    </LinearLayout>
+</RelativeLayout>

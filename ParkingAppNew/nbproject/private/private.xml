@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/nbproject/genfiles.properties</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/manager/QueryManager.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/qrcode/WebcamCaptureQrCode.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/webserviceservlet/UserWalletRechargeServlet.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/servlet/ViewBookingServlet.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/webserviceservlet/QrCodeServlet.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/nbproject/ant-deploy.xml</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/bean/UserBean.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/qrcode/QRCode.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/web/login.jsp</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/web/admin_home.jsp</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/db/DbConnection.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/bean/LoginBean.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/servlet/ViewUserServlet.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/util/AppConstants.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/web/admin_header.jsp</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/mail/Email.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/nbproject/private/private.xml</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/webserviceservlet/LoginServlet.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/time/TM.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/manager/FCMManager.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/build/web/QrCode/Naveen/QRCode.png</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/qrcode/AppVariables.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/nbproject/private/private.properties</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/qrcode/Testing.java</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/nbproject/project.xml</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/nbproject/project.properties</file>
+            <file>file:/C:/Users/John/Desktop/UEL/SE/assignment/spothero/ParkingAppNew/src/java/com/parkingapp/bean/AreaAdminRegisterBean.java</file>
+        </group>
+    </open-files>
+</project-private>
